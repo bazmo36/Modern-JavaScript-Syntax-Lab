@@ -117,7 +117,7 @@ console.log('myCar:',myCar)
 // d. Console log the `userProfile` object to see the result.
 //
 // Your code here:
-const propertyName = 'name'
+const propertyName = 'username'
 
 const userProfile = {
     [propertyName]: 'Mooza'
